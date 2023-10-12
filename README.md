@@ -43,3 +43,6 @@ file (or best /dev/null). Printing the output on the terminal takes some additio
 time that we don’t want to measure. You can measure the runtime under Linux via
 the following command:
 time ./task3 in.fa 10 1 > /dev/null
+
+About task3.cpp:
+Implementing Munkres algorithm
